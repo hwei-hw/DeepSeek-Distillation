@@ -33,3 +33,4 @@ This repository collects publicly available distillation datasets based on DepSe
 - [AI-MO/NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT): Approximately 860k math problems, where each solution is formatted in a Chain of Thought (CoT) manner.
 - [cognitivecomputations/dolphin-r1](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1): a 800k sample dataset similar in composition to the one used to train DeepSeek-R1 Distill models.
 - [GAIR/LIMO](https://huggingface.co/datasets/GAIR/LIMO): a reasoning dataset mainly focus on math.
+- [wangrongsheng/Kimi-K1.5-Distill-data](https://huggingface.co/datasets/wangrongsheng/Kimi-K1.5-Distill-data): a math dataset (531) that distilled from kimi-k1.5.
