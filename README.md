@@ -17,6 +17,7 @@ This repository collects publicly available distillation datasets based on DepSe
 
 ### 3. General domain
 - [sequelbox/Raiden-DeepSeek-R1](https://huggingface.co/datasets/sequelbox/Raiden-DeepSeek-R1): is a dataset (62.9K) containing creative-reasoning and analytic-reasoning responses, testing the limits of DeepSeek R1's reasoning skills!
+- [LLaVA-R1-100k](https://modelscope.cn/datasets/modelscope/LLaVA-R1-100k): 大规模多模态Reasoning数据集，使用GPT4-o来生成图片描述，并通过DeepSeek-R1模型生成Reasoning过程；
 
 ### 4. Mixed domains
 - [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k): an synthetic reasoning dataset with 114k high-quality examples covering math, science, code, and puzzles!
